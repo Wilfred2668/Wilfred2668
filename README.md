@@ -42,7 +42,7 @@ Outside of coding:
 ### Connect
 
 <p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/wilfred-dsouza-4aba4b339">LinkedIn</a> •
 <a href="https://github.com/wilfred2668">GitHub</a> •
 <a href="mailto:wilfred2668@gmail.com">Email</a>
 </p>
