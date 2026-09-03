@@ -23,6 +23,10 @@
         <a href="mailto:wilfred2668@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
         </a>
+        &nbsp;
+        <a href="https://www.wilfredzz.dev">
+          <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" />
+        </a>
       </td>
     </tr>
   </table>
